@@ -1,0 +1,9 @@
+.main-container{
+    height: 100vh;
+    background-color: pink;
+}
+
+.slider, .items{
+    height: 100%;
+}
+
