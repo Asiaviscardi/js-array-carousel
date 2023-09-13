@@ -3,7 +3,18 @@
     background-color: pink;
 }
 
+.container-asia{
+    width: 50%;
+    height: 50%;
+}
+
 .slider, .items{
     height: 100%;
+}
+
+.items img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
